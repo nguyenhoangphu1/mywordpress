@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Truck &#8211; Hoàng Phú WordPress</title>
+	<atom:link href="http://localhost/myproject/wordpress/danh-muc-san-pham/truck/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nguyenhoangphu1.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Mon, 03 Oct 2022 16:55:41 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>TAXI SIENA</title>
+		<link>https://nguyenhoangphu1.github.io/mywordpress/san-pham/taxi-siena/</link>
+					<comments>https://nguyenhoangphu1.github.io/mywordpress/san-pham/taxi-siena/#respond</comments>
+		
+		<dc:creator><![CDATA[nguyenhoangphu]]></dc:creator>
+		<pubDate>Mon, 03 Oct 2022 16:48:47 +0000</pubDate>
+				<guid isPermaLink="false">https://nguyenhoangphu1.github.io/mywordpress/?post_type=product&#038;p=704</guid>
+
+					<description><![CDATA[Be the first to review this product
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla paria tur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<a class="mail-to-friend" href="mailto:?subject=I%20wanted%20you%20to%20see%20this%20site&#38;body=Check%20out%20this%20site%20https://micar.7uptheme.net/product/siena/">Email to a Friend:</a>
+<ul class="list-none">
+ 	<li>
+<p class="desc">Exterior: Eternal Blue Mica</p>
+</li>
+ 	<li>
+<p class="desc">Interior: Black Cloth</p>
+</li>
+ 	<li>
+<p class="desc">Transmission: Automatic</p>
+</li>
+ 	<li>
+<p class="desc">Engine: 2.5L SKYACTIV®-G 2.5T</p>
+</li>
+</ul>
+This product is currently out of stock and unavailable.
+<ul class="list-none detail-extra-link">
+ 	<li><a class="add_to_wishlist wishlist-link" href="https://micar.7uptheme.net/product/siena/?add_to_wishlist=324" rel="nofollow" data-product-id="324" data-product-title="Taxi Siena">Add to Wishlist</a></li>
+ 	<li><a class="product-compare compare compare-link color" href="https://micar.7uptheme.net/product/siena/?action=yith-woocompare-add-product&#38;id=i%20class=color%20icon%20ion-ios-browsers-outline/i" data-product_id="324"><i class="icon ion-ios-browsers-outline"></i>Compare</a></li>
+</ul>
+Sold By : Micar
+<span class="sku_wrapper">SKU: <span class="sku">N0287YTA</span></span>
+
+&#160;]]></description>
+										<content:encoded><![CDATA[Be the first to review this product
+
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla paria tur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+<a class="mail-to-friend" href="mailto:?subject=I%20wanted%20you%20to%20see%20this%20site&#38;body=Check%20out%20this%20site%20https://micar.7uptheme.net/product/siena/">Email to a Friend:</a>
+<ul class="list-none">
+ 	<li>
+<p class="desc">Exterior: Eternal Blue Mica</p>
+</li>
+ 	<li>
+<p class="desc">Interior: Black Cloth</p>
+</li>
+ 	<li>
+<p class="desc">Transmission: Automatic</p>
+</li>
+ 	<li>
+<p class="desc">Engine: 2.5L SKYACTIV®-G 2.5T</p>
+</li>
+</ul>
+This product is currently out of stock and unavailable.
+<ul class="list-none detail-extra-link">
+ 	<li><a class="add_to_wishlist wishlist-link" href="https://micar.7uptheme.net/product/siena/?add_to_wishlist=324" rel="nofollow" data-product-id="324" data-product-title="Taxi Siena">Add to Wishlist</a></li>
+ 	<li><a class="product-compare compare compare-link color" href="https://micar.7uptheme.net/product/siena/?action=yith-woocompare-add-product&#38;id=i%20class=color%20icon%20ion-ios-browsers-outline/i" data-product_id="324"><i class="icon ion-ios-browsers-outline"></i>Compare</a></li>
+</ul>
+Sold By : Micar
+<span class="sku_wrapper">SKU: <span class="sku">N0287YTA</span></span>
+
+&#160;]]></content:encoded>
+					
+					<wfw:commentRss>https://nguyenhoangphu1.github.io/mywordpress/san-pham/taxi-siena/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
