@@ -12,7 +12,7 @@
 	<atom:link href="http://localhost/myproject/wordpress/category/khong-phan-loai/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyenhoangphu1.github.io/mywordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Thu, 27 Oct 2022 08:23:51 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 30 Oct 2022 04:21:41 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,16 +20,16 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.3</generator>
 	<item>
-		<title>Top 7 các hãng xe ô tô nổi tiếng trên thế giới   2022</title>
-		<link>https://nguyenhoangphu1.github.io/mywordpress/2022/10/25/top-7-cac-ha%cc%83ng-xe-o-to-no%cc%89i-tieng-tren-the-gioi-2022/</link>
-					<comments>https://nguyenhoangphu1.github.io/mywordpress/2022/10/25/top-7-cac-ha%cc%83ng-xe-o-to-no%cc%89i-tieng-tren-the-gioi-2022/#respond</comments>
+		<title>Hãng xe nổi tiếng</title>
+		<link>https://nguyenhoangphu1.github.io/mywordpress/2022/10/25/hang-oto-noi-tieng/</link>
+					<comments>https://nguyenhoangphu1.github.io/mywordpress/2022/10/25/hang-oto-noi-tieng/#respond</comments>
 		
 		<dc:creator><![CDATA[nguyenhoangphu]]></dc:creator>
 		<pubDate>Tue, 25 Oct 2022 14:17:35 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://nguyenhoangphu1.github.io/mywordpress/?p=727</guid>
 
-					<description><![CDATA[Đối với những người chơi xe, đam mê xe và sưu tầm xe thì họ vô cùng quan tâm các hãng xe lớn và nổi tiếng trên thế giới dưới đây là các hãng xe ô tô nổi tiếng trên thế giới 2022 được đánh giá là tốt nhất. Top 1: Hãng xe ô tô [&#8230;]]]></description>
+					<description><![CDATA[Đối với những người chơi xe, đam mê xe và sưu tầm xe thì họ vô cùng quan tâm các hãng xe lớn và nổi tiếng trên thế giới dưới đây là các hãng xe ô tô nổi tiếng trên thế giới 2022 được đánh giá là tốt nhất. 1.Hãng xe ô tô nổi tiếng [&#8230;]]]></description>
 										<content:encoded><![CDATA[
 <p>Đối với những người chơi xe, đam mê xe và sưu tầm xe thì họ vô cùng quan tâm các hãng xe lớn và nổi tiếng trên thế giới dưới đây là các hãng xe ô tô nổi tiếng trên thế giới 2022 được đánh giá là tốt nhất.</p>
 
@@ -38,12 +38,10 @@
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
-
-<h2><strong>Top 1: Hãng xe ô tô Mercedes Benz</strong></h2>
-
+<h2><strong>1.Hãng xe ô tô nổi tiếng Mercedes Benz</strong></h2>
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4640" height="6960" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/hang-xe-noi-tieng-mer.jpg" alt="cac hang xe noi tieng mer" class="wp-image-854 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4640" height="6960" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/hang-xe-noi-tieng-mer.jpg" alt="cac hang xe noi tieng mer" class="wp-image-854 size-full"/></figure><div class="wp-block-media-text__content">
 <h4>&#8211; Giới thiệu:</h4>
 
 
@@ -64,12 +62,10 @@
 </div></div>
 
 
-
-<h2><strong>Top 2: Hãng xe ô tô Bugatti</strong></h2>
-
+<h2 style="text-align: left;"><strong>2.Hãng xe ô tô nổi tiếng Bugatti</strong></h2>
 
 
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="3648" height="4560" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-bugatti.jpg" alt="cac hang xe noi tieng bugatti" class="wp-image-857 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="3648" height="4560" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-bugatti.jpg" alt="cac hang xe noi tieng bugatti" class="wp-image-857 size-full"/></figure><div class="wp-block-media-text__content">
 <h4>&#8211; Giới thiệu:</h4>
 
 
@@ -94,9 +90,7 @@
 </div></div>
 
 
-
-<h2><strong>Top 3: Hãng xe nổi tiếng Range Rover</strong></h2>
-
+<h2 style="text-align: left;"><strong>3.Hãng xe ô tô nổi tiếng Range Rover</strong></h2>
 
 
 <figure class="wp-block-image alignwide size-full"><img loading="lazy" width="4240" height="2384" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-rangerover.jpg" alt="cac hang xe noi tieng rangerover" class="wp-image-859"/><figcaption>Phá mọi giới hạn cùng Range Rover</figcaption></figure>
@@ -138,12 +132,10 @@
 <p>Hàng loạt các công nghệ vận hành được trang bị tiêu chuẩn giúp mang lại sự thoải mái và tự tin bao gồm Hệ thống Đánh lái Bốn bánh và Terrain Response 2.</p>
 
 
-
-<h2><strong>Top 4: Hãng xe nổi tiếng Lamborghini</strong></h2>
-
+<h2 style="text-align: left;"><strong>4.Hãng xe ô tô nổi tiếng Lamborghini</strong></h2>
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4000" height="6000" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-lambor-2.jpg" alt="cac hang xe noi tieng lambor" class="wp-image-867 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4000" height="6000" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-lambor-2.jpg" alt="cac hang xe noi tieng lambor" class="wp-image-867 size-full"/></figure><div class="wp-block-media-text__content">
 <h4>&#8211; Giới thiệu:</h4>
 
 
@@ -169,8 +161,8 @@
 
 
 
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4000" height="6000" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-lamborghini-1.jpg" alt="cac hang xe noi tieng lamborghini" class="wp-image-866 size-full"/></figure><div class="wp-block-media-text__content">
-<h4>&#8211; Lamborghini Urus:</h4>
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4000" height="6000" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-lamborghini-1.jpg" alt="cac hang xe noi tieng lamborghini" class="wp-image-866 size-full"/></figure><div class="wp-block-media-text__content">
+<h4><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">&#8211; Quản lý Lamborghini:</font></font></h4>
 
 
 
@@ -190,9 +182,7 @@
 </div></div>
 
 
-
-<h2><strong>Top 5: Hãng xe nổi tiếng Ferrari về tốc độ</strong></h2>
-
+<h2 style="text-align: left;"><strong>5.Hãng xe ô tô nổi tiếng Ferrari</strong></h2>
 
 
 <h4>&#8211; Giới thiệu:</h4>
@@ -240,12 +230,10 @@
 <p>Xe cũng được trang bị hộp số ly hợp kép 7 cấp tương tự như bản tiền nhiệm, tuy nhiên Ferrari Portofino được bổ sung thêm một số phần mềm mới cho phép chuyển đổi bánh răng nhanh và mượt mà hơn. Hệ thống ống xả của Portofino cũng được chỉnh sửa lại mang đến âm thanh ấm và dữ dằn hơn.</p>
 
 
-
-<h2><strong>Top 6: Hãng xe nổi tiếng BMW</strong></h2>
-
+<h2 style="text-align: left;"><strong>6.Hãng xe ô tô nổi tiếng BMW</strong></h2>
 
 
-<div class="wp-block-media-text alignwide is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4000" height="2609" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-bmw-1.jpg" alt="cac hang xe noi tieng bmw" class="wp-image-874 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="4000" height="2609" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-bmw-1.jpg" alt="cac hang xe noi tieng bmw" class="wp-image-874 size-full"/></figure><div class="wp-block-media-text__content">
 <h4>&#8211; Giới thiệu:</h4>
 
 
@@ -270,12 +258,10 @@
 </div></div>
 
 
-
-<h2><strong>Top 7: Hãng xe nổi tiếng Porsche</strong></h2>
-
+<h2 style="text-align: left;"><strong>7.Hãng xe ô tô nổi tiếng Porsche AG</strong></h2>
 
 
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="2160" height="2700" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-porsche.jpg" alt="cac hang xe noi tieng porsche" class="wp-image-879 size-full"/></figure><div class="wp-block-media-text__content">
+<div class="wp-block-media-text has-media-on-the-right is-stacked-on-mobile"><figure class="wp-block-media-text__media"><img loading="lazy" width="2160" height="2700" src="https://nguyenhoangphu1.github.io/mywordpress/wp-content/uploads/2022/10/cac-hang-xe-noi-tieng-porsche.jpg" alt="cac hang xe noi tieng porsche" class="wp-image-879 size-full"/></figure><div class="wp-block-media-text__content">
 <h4>&#8211; Giới thiệu:</h4>
 
 
@@ -300,7 +286,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nguyenhoangphu1.github.io/mywordpress/2022/10/25/top-7-cac-ha%cc%83ng-xe-o-to-no%cc%89i-tieng-tren-the-gioi-2022/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyenhoangphu1.github.io/mywordpress/2022/10/25/hang-oto-noi-tieng/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
